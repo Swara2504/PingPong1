@@ -1,0 +1,16 @@
+body
+{
+    background-size: cover;
+}
+.header
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 100px 50px;
+}
+#start_button
+{
+    font-size: 18px;
+    float: bottom;
+}
